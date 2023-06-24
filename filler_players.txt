@@ -1,0 +1,5 @@
+﻿Romas Romka
+Čypas Čypovas; 27; 1.89;
+Lapas Lapelis; 34; 2.21;
+Domas Domavičius; 17; 1.72;
+Saulius Saulėnas; 25; 2.01;

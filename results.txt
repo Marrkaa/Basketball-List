@@ -1,0 +1,77 @@
+
+ Vaižganto mokykla
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Antanas Antanaitis     19    1.96
+  2 Jonas Jonaitis         24    2.00
+  3 Petras Petraitis       21    1.69
+  4 Kestas Kestaitis       30    2.07
+--------------------------------------
+
+ Romuvos mokykla
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Romas Romaitis         19    1.94
+  2 Justas Justinaitis     28    2.05
+  3 Domas Janušonis        19    1.75
+  4 Arnoldas Kairys        27    1.94
+  5 Gedas Gedaitis         26    1.88
+--------------------------------------
+
+ Romas Romka
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Čypas Čypovas          27    1.89
+  2 Lapas Lapelis          34    2.21
+  3 Domas Domavičius       17    1.72
+  4 Saulius Saulėnas       25    2.01
+--------------------------------------
+Vaižganto mokykla žaidėjų vidutinis amžius ir ūgis:
+23 metai, 1.93 metrai
+Romuvos mokykla žaidėjų vidutinis amžius ir ūgis:
+23 metai, 1.91 metrai
+
+ Naujai suformuotas žaidėjų sąrašas
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Kestas Kestaitis       30    2.07
+  2 Jonas Jonaitis         24    2.00
+  3 Antanas Antanaitis     19    1.96
+  4 Arnoldas Kairys        27    1.94
+  5 Justas Justinaitis     28    2.05
+  6 Romas Romaitis         19    1.94
+--------------------------------------
+
+ Surikiuotas žaidėjų sąrašas
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Antanas Antanaitis     19    1.96
+  2 Romas Romaitis         19    1.94
+  3 Jonas Jonaitis         24    2.00
+  4 Arnoldas Kairys        27    1.94
+  5 Justas Justinaitis     28    2.05
+  6 Kestas Kestaitis       30    2.07
+--------------------------------------
+
+ Sąrašas po išmetimo
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Antanas Antanaitis     19    1.96
+  2 Romas Romaitis         19    1.94
+--------------------------------------
+
+ Sąrašas po papildomo formatavimo
+--------------------------------------
+ Nr. Pavardė ir vardas   Amžius  Ūgis 
+--------------------------------------
+  1 Antanas Antanaitis     19    1.96
+  2 Romas Romaitis         19    1.94
+  3 Saulius Saulėnas       25    2.01
+  4 Lapas Lapelis          34    2.21
+--------------------------------------
